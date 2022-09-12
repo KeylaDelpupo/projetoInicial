@@ -1,0 +1,1 @@
+frutasdoces = ["jabuticaba", "uvas"]
